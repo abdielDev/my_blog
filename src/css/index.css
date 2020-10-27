@@ -1,0 +1,55 @@
+.margin {
+  margin: 100px;
+}
+
+.table {
+  width: 100%;
+  text-align: left;
+}
+
+.table td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#menu {
+  background-color: #253a46;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#menu a {
+  color: white;
+  padding-right: 50px;
+}
+
+body {
+  margin: 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+
+.postTitle {
+  border-top: 1px solid black;
+  cursor: pointer;
+}
+
+li {
+  margin: 15px 0 15px 0;
+}
+
+.tasks_container {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+
+.marginLeft {
+  margin-left: 20px;
+}
